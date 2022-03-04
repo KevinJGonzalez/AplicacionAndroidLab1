@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catálogo de Productos</string>
+    <string name="categoria_del_producto">Categoria del Producto</string>
+    <string name="textview">TextView</string>
+    <string name="producto">Producto</string>
+    <string name="precio">Precio</string>
+    <string name="especificaciones">Especificaciones</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="comprar">Comprar</string>
+</resources>
